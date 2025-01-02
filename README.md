@@ -27,8 +27,11 @@ An Amazon-inspired e-commerce website built using **HTML**, **CSS**, and **JavaS
 
 
 License
+
 This project is licensed under the MIT License.
 
 Acknowledgments
+
 Inspired by Amazon.
+
 Icons and assets are used for educational purposes only.
